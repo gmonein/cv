@@ -1,94 +1,110 @@
-# Gael Monein
+# 💻 Gael Monein
 
-📍 Paris, France  
+📍 *Paris, France*  
 📧 mgael118@gmail.com  
-📞 (065) 999-3398  
+📱 +33 6 59 99 33 98
+🌐 [GitHub](https://github.com/gmonein) | [LinkedIn](www.linkedin.com/in/gmonein)
 
 ---
 
-## 🎯 Summary
+## 🧠 About Me
 
-Fullstack Rails/React software engineer with 6 years of experience.  
-I've participated in scaling the 42's intranet and refactored the My Job Glasses marketplace before the mobile application development.
-
----
-
-## 🛠️ Skills
-
-Ruby on Rails · React · Typescript · SQL · MongoDB · Kubernetes
+**Fullstack Software Engineer** specialized in **Ruby on Rails** and **React** with 6+ years of experience.  
+Passionate about building scalable systems, refactoring legacy code, and shipping elegant solutions.  
+I helped scale the **42 intranet** and re-architected the **My Job Glasses** marketplace.
 
 ---
 
-## 💼 Work Experience
+## ⚒️ Tech Stack
 
-### **My Job Glasses**  
-**Fullstack Software Engineer**  
-*Paris — Sep 2020 - Present*
-
-- As a senior Fullstack engineer, I follow an Agile development methodology in a brand-new team of 7 (Rails, React, PostgreSQL, MongoDB, Kubernetes, Argo CD).
-- As an intermediate Fullstack engineer in a team of 2, I helped collaborators with daily support and business needs while building them a backoffice (Rails, React, ActiveAdmin, GraphQL, MongoDB, PostgreSQL).
-- As an intermediate Backend engineer in a team of 10, I worked in Agile development (Rails, MongoDB).
+**Languages:** Ruby · TypeScript · JavaScript · SQL · Python · Bash  
+**Frameworks:** Ruby on Rails · React · GraphQL · ActiveAdmin  
+**Tools & DevOps:** Docker · Kubernetes · ArgoCD · AWS · RSpec · NewRelic · Linux  
+**Databases:** PostgreSQL · MongoDB · MySQL  
+**Others:** Agile · CI/CD · Troubleshooting · Security · Optimization · Git
 
 ---
 
-### **42 Network**  
-**Junior Ruby on Rails Engineer**  
-*Paris — Mar 2018 - May 2020*
+## 👨‍💻 Experience
 
-- Maintained the school intranet, exams, and other school services as part of a 5-person team.
+### 🔹 My Job Glasses — *Fullstack Software Engineer*  
+📍 *Paris* · 🗓️ *Sep 2020 – Apr 2025*
 
----
-
-## 🚀 Projects
-
-### **Migrate APIs to GraphQL**  
-*Jan 2024 - May 2025*
-
-- Implemented Pundit authorizations to the current GraphQL API (Rails, GraphQL, Pundit).  
-- Converted Javascript + Redux to TypeScript + Apollo.  
-- Documented APIs and flows for the mobile development team (GraphQL, Docusaurus, Docker).
+- 🧩 Led architecture design in a team of 3 soft engineers.
+- ⚙️ Oversaw application maintenance, support incidents, and evolving product requirements.
+- 🛠 Built a back-office sales & ops.
+- 🐛 Supported production needs and fixed critical issues on a legacy monolith.
 
 ---
 
-### **Monitoring Stack + Optimization**  
-*Aug 2025 - Sep 2025*
+### 🔹 42 Network — *Junior Ruby on Rails Engineer*  
+📍 *Paris* · 🗓️ *Mar 2018 – May 2020*
 
-- Fixed critical N+1 queries and built tools to unit test them (Rails, MongoDB, RSpec).  
-- Improved deployment speed from 8 minutes to 1 minute (Docker, Kubernetes, Rails).
-
----
-
-### **Extract Meetings Programs from the Monolith**  
-*Feb 2023 - May 2023*
-
-- Built a second Rails / React application to handle meeting programs (Rails, PostgreSQL, React, GraphQL).  
-- Created an account management React application (React, GraphQL).  
-- Built services to convert marketplace users and interaction data into PostgreSQL models (MongoDB, PostgreSQL, ActiveRecord, Mongoid).  
-- Developed services to compute global project, program, and participation data (SQL, ActiveRecord).
+- 👨‍🏫 Maintained intranet, exams, and internal tools for 30,000+ students.
+- 🧪 Worked in a 5-person engineering team, writing clean and testable Rails code.
+- 🖥️ Developed a web platform to manage candidate registrations for the 42 Piscines.
 
 ---
 
-### **Winamax Data Mining**  
-*Mar 2020 - Jun 2020*
+## 🚀 Selected Projects
 
-- Instrumented the Winamax Flash app to open requested tables and extract data from memory (C, Python, Docker).  
-- Built an app to list cash games and tournaments with the most exploitable players (Ruby, Sinatra, PostgreSQL, Golang).  
-- Developed an Electron app, reverse-engineered the WebSocket protocol, and built a JS connector to Winamax’s private WebSocket API (Electron, RabbitMQ).
+### 🔄 **Migrate APIs to GraphQL**  
+📅 *Jan 2024 – May 2025*
+
+- 🔨 Converted jsonapi to GraphQL, improved services, kept code coverage at 90%+ (GraphQL RSpec)
+- 📝 Write API, Traking and flows documentations for the Mobile Development team (GraphQL, Docusaurus)
+- 🛡️ Implemented Pundit authorizations in the current GraphQL API (Rails, GraphQL, Pundit).  
+- 🧠 Converted JavaScript + Redux to TypeScript + Apollo (React, TypeScript).  
+- 📚 Documented APIs and flows for the mobile development team (GraphQL, Docusaurus, Docker).
+
+---
+
+### 📈 **Monitoring Stack + Optimization**  
+📅 *Aug 2025 – Sep 2025*
+
+- 🔍 Fixed critical N+1 queries and built unit test tools to catch regressions (Rails, MongoDB, RSpec).  
+- ⚡ Improved deployment speed from 8 minutes to 1 minute (Docker, Kubernetes, Rails).
 
 ---
 
-### **Optimize Intranet and APIs**  
-*Jan 2019 - Jul 2019*
+### 🧩 **Extract Meetings Programs from the Monolith**  
+📅 *Feb 2023 – Jun 2023*
 
-- Reduced database average CPU from 80% to 30% (PostgreSQL, Rails).  
-- Reduced API response time from 800ms to 200ms (Rails, PostgreSQL, NewRelic).  
-- Split a 400M+ row table into yearly partitions (PostgreSQL, ActiveRecord).
+- 🏗️ Built a second Rails / React app to manage meeting programs (Rails, PostgreSQL, React, GraphQL).  
+- 👤 Developed an account management application (React, GraphQL).  
+- 🔄 Created services to migrate marketplace user and interaction data into PostgreSQL models (MongoDB, PostgreSQL, ActiveRecord, Mongoid).  
+- 📊 Built services to compute global data for projects, programs, and participations (SQL, ActiveRecord).
 
 ---
+
+### ♠️ **Winamax Data Mining**  
+📅 *Mar 2020 – Jun 2020*
+
+- 🧪 Instrumented the Winamax Flash app to extract table data from memory (C, Python, Docker).  
+- 🧵 Parsed and reconstructed poker hands from sparse WebSocket streams (Python, PostgreSQL).  
+- 🎯 Computed player data and built an app to highlight the most exploitable cash games and tournaments (Ruby, Sinatra, PostgreSQL, Golang).  
+- 🛠️ Reverse-engineered the private WebSocket API, and built a connector to the Winamax internal API (Electron, RabbitMQ, Javascript).
+
+---
+
+### 🧱 **Optimize Intranet and APIs**  
+📅 *Jan 2019 – Jul 2019*
+
+- 🧮 Reduced average DB CPU usage from 80% to 30% (PostgreSQL, Rails).  
+- 🚀 Decreased API response times from 800ms to 200ms (Rails, PostgreSQL, NewRelic).  
+- 🗃️ Split a 400M+ row table into yearly partitions (PostgreSQL, ActiveRecord).  
+- 🧰 Configured and deployed new PostgreSQL replicas (PostgreSQL, Linux, Shell).
 
 ## 🎓 Education
 
-### **42**  
-*Sep 2016 - May 2018*  
+### 🏫 42 Paris  
+🗓️ *Sep 2016 – Jan 2019*  
 **Level 21 – IT Architecture Expert**
 
+---
+
+## 🧩 Other
+
+- 💬 Languages: French (native), English (advanced)  
+- 🧠 Side Interests: Hacking, code golfing, reverse engineering 
+- 🔍 Open to freelance, remote or hybrid roles (Paris)
