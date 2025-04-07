@@ -30,7 +30,7 @@ I helped scale the **42 intranet** and re-architected the **My Job Glasses** mar
 ### 🔹 My Job Glasses — *Fullstack Software Engineer*  
 📍 *Paris* · 🗓️ *Sep 2020 – Apr 2025*
 
-- 🧩 Led architecture design in a team of 3 soft engineers.
+- 🧩 Led architecture design in a team of 3 software engineers.
 - ⚙️ Oversaw application maintenance, support incidents, and evolving product requirements.
 - 🛠 Built a back-office sales & ops.
 - 🐛 Supported production needs and fixed critical issues on a legacy monolith.
