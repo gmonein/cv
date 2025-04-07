@@ -77,13 +77,13 @@ I helped scale the **42 intranet** and re-architected the **My Job Glasses** mar
 
 ---
 
-### ♠️ **Winamax Data Mining**  
+### ♠️ **Poker Data Mining**  
 📅 *Mar 2020 – Jun 2020*
 
-- 🧪 Instrumented the Winamax Flash app to extract table data from memory (C, Python, Docker).  
+- 🧪 Instrumented the platform's application to extract table data from memory (C, Python, Docker).  
 - 🧵 Parsed and reconstructed poker hands from sparse WebSocket streams (Python, PostgreSQL).  
 - 🎯 Computed player data and built an app to highlight the most exploitable cash games and tournaments (Ruby, Sinatra, PostgreSQL, Golang).  
-- 🛠️ Reverse-engineered the private WebSocket API, and built a connector to the Winamax internal API (Electron, RabbitMQ, Javascript).
+- 🛠️ Reverse-engineered the private WebSocket API, and built a connector to the platform internal API (Electron, RabbitMQ, Javascript).
 
 ---
 
