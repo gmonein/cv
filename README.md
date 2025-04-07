@@ -3,7 +3,7 @@
 📍 *Paris, France*  
 📧 mgael118@gmail.com  
 📱 +33 6 59 99 33 98
-🌐 [GitHub](https://github.com/gmonein) | [LinkedIn](www.linkedin.com/in/gmonein)
+🌐 [GitHub](https://github.com/gmonein) | [LinkedIn](https://www.linkedin.com/in/gmonein)
 
 ---
 
