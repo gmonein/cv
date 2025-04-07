@@ -19,9 +19,9 @@ I helped scale the **42 intranet** and re-architected the **My Job Glasses** mar
 
 **Languages:** Ruby · TypeScript · JavaScript · SQL · Python · Bash  
 **Frameworks:** Ruby on Rails · React · GraphQL · ActiveAdmin  
-**Tools & DevOps:** Docker · Kubernetes · ArgoCD · AWS · RSpec · NewRelic · Linux  
+**Tools & DevOps:** Docker · Kubernetes · ArgoCD · AWS · RSpec · Linux · Git
 **Databases:** PostgreSQL · MongoDB · MySQL  
-**Others:** Agile · CI/CD · Troubleshooting · Security · Optimization · Git
+**Others:** Agile · CI/CD · Troubleshooting · Security · Optimization
 
 ---
 
