@@ -1,0 +1,100 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% Choix du style et de la couleur
+\moderncvstyle{classic}      % styles possibles : casual, classic, banking, oldstyle, fancy
+\moderncvcolor{blue}         % couleurs possibles : blue, orange, green, red, purple, grey, black
+
+% Encodage et marges
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[scale=0.85]{geometry}
+
+% Informations personnelles
+\name{Gael}{Monein}
+\address{Paris, France}{}{}
+\phone[mobile]{+33 6 59 99 33 98}
+\email{mgael118@gmail.com}
+\social[github]{gmonein}
+\social[linkedin]{gmonein}
+
+\begin{document}
+
+% Génération du titre
+\makecvtitle
+
+\section{À propos de moi}
+Fullstack Software Engineer spécialisé en \textbf{Ruby on Rails} et \textbf{React} avec plus de 6 ans d'expérience. Passionné par la construction de systèmes évolutifs, la refactorisation de code hérité et le déploiement de solutions élégantes. A contribué à l'évolution de l'intranet de \textbf{42} et à la ré-architecture du marketplace \textbf{My Job Glasses}.
+
+\section{Compétences Techniques}
+\cvitem{Langages}{Ruby, TypeScript, JavaScript, SQL, Python, Bash}
+\cvitem{Frameworks}{Ruby on Rails, React, GraphQL, ActiveAdmin}
+\cvitem{Outils \& DevOps}{Docker, Kubernetes, ArgoCD, AWS, RSpec, NewRelic, Linux}
+\cvitem{Bases de données}{PostgreSQL, MongoDB, MySQL}
+\cvitem{Divers}{Agile, CI/CD, Dépannage, Sécurité, Optimisation, Git}
+
+\section{Expérience Professionnelle}
+
+\cventry{Sep 2020 -- Apr 2025}{Fullstack Software Engineer}{My Job Glasses}{Paris}{}{
+\begin{itemize}
+  \item Pilotage de la conception architecturale au sein d'une équipe de 3 ingénieurs.
+  \item Supervision de la maintenance de l'application, support des incidents et adaptation aux évolutions des besoins produit.
+  \item Réalisation d'un back-office pour les ventes et opérations.
+  \item Support aux besoins de production et résolution des problèmes critiques sur un monolithe hérité.
+\end{itemize}}
+  
+\cventry{Mar 2018 -- May 2020}{Junior Ruby on Rails Engineer}{42 Network}{Paris}{}{
+\begin{itemize}
+  \item Maintenance de l'intranet, des examens et des outils internes pour plus de 30\,000 étudiants.
+  \item Collaboration au sein d'une équipe de 5 ingénieurs pour développer un code Rails propre et testable.
+  \item Développement d'une plateforme web pour la gestion des inscriptions aux \textit{42 Piscines}.
+\end{itemize}}
+
+\section{Projets Sélectionnés}
+
+\cventry{Jan 2024 -- May 2025}{Migrate APIs to GraphQL}{}{}{}{
+\begin{itemize}
+  \item Conversion de JSONAPI vers GraphQL et amélioration des services avec une couverture de tests supérieure à 90\%.
+  \item Rédaction de documentations API, de tracking et de flux pour l'équipe mobile (GraphQL, Docusaurus).
+  \item Implémentation d'autorisations Pundit dans l'API GraphQL existante (Rails, GraphQL, Pundit).
+  \item Migration du code JavaScript + Redux vers TypeScript + Apollo (React, TypeScript).
+\end{itemize}}
+
+\cventry{Aug 2025 -- Sep 2025}{Monitoring Stack + Optimization}{}{}{}{
+\begin{itemize}
+  \item Correction de requêtes N+1 critiques et développement d'outils de tests unitaires (Rails, MongoDB, RSpec).
+  \item Réduction du temps de déploiement de 8 minutes à 1 minute (Docker, Kubernetes, Rails).
+\end{itemize}}
+
+\cventry{Feb 2023 -- Jun 2023}{Extract Meetings Programs from the Monolith}{}{}{}{
+\begin{itemize}
+  \item Création d'une seconde application Rails/React pour gérer des programmes de réunions (Rails, PostgreSQL, React, GraphQL).
+  \item Développement d'une application de gestion de comptes (React, GraphQL).
+  \item Mise en place de services pour migrer des données utilisateurs du marketplace vers PostgreSQL (MongoDB, PostgreSQL, ActiveRecord, Mongoid).
+  \item Conception de services pour calculer des données globales pour projets, programmes et participations (SQL, ActiveRecord).
+\end{itemize}}
+
+\cventry{Mar 2020 -- Jun 2020}{Winamax Data Mining}{}{}{}{
+\begin{itemize}
+  \item Instrumentation de l'application Winamax Flash pour extraire des données en mémoire (C, Python, Docker).
+  \item Analyse et reconstruction des mains de poker depuis des flux WebSocket sporadiques (Python, PostgreSQL).
+  \item Développement d'une application pour identifier les cash games et tournois exploitables (Ruby, Sinatra, PostgreSQL, Golang).
+  \item Ingénierie inverse de l'API WebSocket et création d'un connecteur vers l'API interne de Winamax (Electron, RabbitMQ, JavaScript).
+\end{itemize}}
+
+\cventry{Jan 2019 -- Jul 2019}{Optimize Intranet and APIs}{}{}{}{
+\begin{itemize}
+  \item Réduction de l'utilisation CPU de la base de données de 80\% à 30\% (PostgreSQL, Rails).
+  \item Diminution du temps de réponse des API de 800 ms à 200 ms (Rails, PostgreSQL, NewRelic).
+  \item Partitionnement d'une table de plus de 400 millions de lignes par année (PostgreSQL, ActiveRecord).
+  \item Configuration et déploiement de nouveaux réplica PostgreSQL (PostgreSQL, Linux, Shell).
+\end{itemize}}
+
+\section{Formation}
+\cventry{Sep 2016 -- Jan 2019}{Level 21 – IT Architecture Expert}{42 Paris}{}{ }{}
+
+\section{Autres Informations}
+\cvitem{Langues}{Français (natif), Anglais (avancé)}
+\cvitem{Intérêts}{Hacking, code golfing, reverse engineering}
+\cvitem{Disponibilité}{Ouvert aux opportunités en freelance, à distance ou en mode hybride (Paris)}
+
+\end{document}
