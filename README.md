@@ -9,19 +9,31 @@
 
 ## 🧠 About Me
 
-**Fullstack Software Engineer** specialized in **Ruby on Rails** and **React** with 6+ years of experience.  
-Passionate about building scalable systems, refactoring legacy code, and shipping elegant solutions.  
-I helped scale the **42 intranet** and re-architected the **My Job Glasses** marketplace.
+**Fullstack Software Engineer** with 6+ years’ experience specializing in **Ruby on Rails** and **React**.  
+Driven by continuous learning and simplification to ship elegant, maintainable, unit‑tested solutions.  
+Scaled the 42 intranet database to support growth from 2,000 to 20,000 active students.  
+Led backend development of the My Job Glasses mobile app and re‑architected its marketplace to support new business models.  
+Optimized CI/CD pipelines, reducing testing and deployment time from 40 minutes to 10 minutes.
 
 ---
 
+
 ## ⚒️ Tech Stack
 
-**Languages:** Ruby · TypeScript · JavaScript · SQL · Python · Bash  
-**Frameworks:** Ruby on Rails · React · GraphQL · ActiveAdmin  
-**Tools & DevOps:** Docker · Kubernetes · ArgoCD · AWS · Linux  
-**Databases:** PostgreSQL · MongoDB · MySQL  
-**Others:** Agile · CI/CD · Troubleshooting · Security · Optimization
+**Frameworks & Testing:**  
+Ruby on Rails · React · GraphQL · ActiveAdmin · Pundit · RSpec (TDD)
+
+**Languages & Scripting:**  
+Ruby · TypeScript · JavaScript (ES6+) · SQL · Bash
+
+**DevOps & Infrastructure:**  
+Docker · Kubernetes · ArgoCD · AWS · Linux · Git · CI/CD (GitHub Actions)
+
+**Datastores:**  
+PostgreSQL · MongoDB · MySQL · Redis
+
+**Principles & Practices:**  
+Clean/Simple Code · Agile · Security · Performance Optimization · Troubleshooting
 
 ---
 
@@ -30,18 +42,19 @@ I helped scale the **42 intranet** and re-architected the **My Job Glasses** mar
 ### 🔹 My Job Glasses — *Fullstack Software Engineer*  
 📍 *Paris* · 🗓️ *Sep 2020 – Apr 2025*
 
-- 🧩 Led architecture design in a team of 3 software engineers.
-- ⚙️ Oversaw application maintenance, support incidents, and evolving product requirements.
-- 🛠 Built a back-office sales & ops.
-- 🐛 Supported production needs and fixed critical issues on a legacy monolith.
+- 🧩 Led architecture design in a team of 3 software engineers in building the mobile application.
+- ⚙️ Oversaw application maintenance, support incidents, and evolving product requirements using agile methodologies.
+- 🛠 Built a back-office customer success, sales and ops, automating 30+ supports and data tasks monthly.
+- 🐛 Supported scalability, error management and fixed critical issues on a legacy monolith, handling from 200 to 2000 appointments per week.
 
 ---
 
 ### 🔹 42 Network — *Junior Ruby on Rails Engineer*  
 📍 *Paris* · 🗓️ *Mar 2018 – May 2020*
 
-- 👨‍🏫 Maintained intranet, exams, and internal tools for 30,000+ students.
-- 🧪 Worked in a 5-person engineering team, writing clean and testable Rails code.
+- ⚙️ Maintained intranet, exams, and internal tools.
+- 🧪 Worked in a 5-person engineering team using a kanban methodology.
+- 👨‍🏫 Trained 4 volunteer and internships in understanding web developments tools.
 - 🖥️ Developed a web platform to manage candidate registrations for the 42 Piscines.
 
 ---
@@ -73,17 +86,18 @@ I helped scale the **42 intranet** and re-architected the **My Job Glasses** mar
 - 🏗️ Built a second Rails / React app to manage meeting programs (Rails, PostgreSQL, React, GraphQL).  
 - 👤 Developed an account management application (React, GraphQL).  
 - 🔄 Created services to migrate marketplace user and interaction data into PostgreSQL models (MongoDB, PostgreSQL, ActiveRecord, Mongoid).  
-- 📊 Built services to compute global data for projects, programs, and participations (SQL, ActiveRecord).
+- 📊 Built services to compute global data for projects, programs, and participations (SQL, ActiveRecord).  
 
 ---
 
 ### ♠️ **Poker Data Mining**  
 📅 *Mar 2020 – Jun 2020*
 
-- 🧪 Instrumented the platform's application to extract table data from memory (C, Python, Docker).  
-- 🧵 Parsed and reconstructed poker hands from sparse WebSocket streams (Python, PostgreSQL).  
+- 🧪 Instrumented the platform's application to extract table data from memory (C, Python, Docker, Xorg).  
+- 🧵 Parsed and reconstructed poker hands from sparse WebSocket streams (Python, PostgreSQL, MongoDB).  
 - 🎯 Computed player data and built an app to highlight the most exploitable cash games and tournaments (Ruby, Sinatra, PostgreSQL, Golang).  
-- 🛠️ Reverse-engineered the private WebSocket API, and built a connector to the platform internal API (Electron, RabbitMQ, Javascript).
+- 🛠️ Reverse-engineered the private WebSocket API, and built a connector to the platform private API (Electron, RabbitMQ, Javascript).  
+- 🤓 Learned poker basics, ranges, MTT strategies aiming for 70%+ ITM tournaments.  
 
 ---
 
@@ -91,6 +105,7 @@ I helped scale the **42 intranet** and re-architected the **My Job Glasses** mar
 📅 *Jan 2019 – Jul 2019*
 
 - 🧮 Reduced average DB CPU usage from 80% to 30% (PostgreSQL, Rails).  
+- 📒 Connect monitoring tools (PostgreSQL, NewRelic, Grafana, Prometheus).
 - 🚀 Decreased API response times from 800ms to 200ms (Rails, PostgreSQL, NewRelic).  
 - 🗃️ Split a 400M+ row table into yearly partitions (PostgreSQL, ActiveRecord).  
 - 🧰 Configured and deployed new PostgreSQL replicas (PostgreSQL, Linux, Shell).
