@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "Gael Monein",
+    "label": "Fullstack Software Engineer",
+    "email": "mgael118@gmail.com",
+    "phone": "+33 6 59 99 33 98",
+    "website": "",
+    "summary": "Fullstack Software Engineer with 6+ years’ experience specializing in Ruby on Rails and React. Driven by continuous learning and simplification to ship elegant, maintainable, unit-tested solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Île-de-France"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "gmonein",
+        "url": "https://github.com/gmonein"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "gmonein",
+        "url": "https://www.linkedin.com/in/gmonein"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "My Job Glasses",
+      "company": "My Job Glasses",
+      "position": "Fullstack Software Engineer",
+      "website": "",
+      "startDate": "2020-09",
+      "endDate": "2025-04",
+      "summary": "",
+      "highlights": [
+        "Led architecture design in a team of 3 engineers building the mobile application.",
+        "Built a back-office for customer success, sales and operations, automating 30+ tasks monthly.",
+        "Supported scalability and fixed critical issues on a legacy monolith handling 200→2000 appointments/week."
+      ],
+      "location": "Paris, France"
+    },
+    {
+      "name": "42 Network",
+      "company": "42 Network",
+      "position": "Junior Ruby on Rails Engineer",
+      "website": "",
+      "startDate": "2018-03",
+      "endDate": "2020-05",
+      "summary": "",
+      "highlights": [
+        "Maintained intranet, exams, and internal tools in a Kanban team of 5.",
+        "Trained 4 volunteers/interns on web development tools.",
+        "Developed a platform to manage candidate registrations for 42 Piscines."
+      ],
+      "location": "Paris, France"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Migrate APIs to GraphQL",
+      "startDate": "2024-01",
+      "endDate": "2025-05",
+      "summary": "Replaced JSON:API with GraphQL, maintained 90%+ coverage, and migrated frontend to TypeScript/Apollo.",
+      "highlights": [
+        "Converted JSON:API to GraphQL, keeping code coverage at 90%+ with GraphQL RSpec.",
+        "Documented APIs and flows for mobile team (Docusaurus).",
+        "Implemented Pundit authorizations in GraphQL API.",
+        "Migrated JS + Redux to TS + Apollo."
+      ]
+    },
+    {
+      "name": "Monitoring Stack + Optimization",
+      "startDate": "2025-08",
+      "endDate": "2025-09",
+      "summary": "Eliminated N+1 queries and slashed deployment time from 8 min to 1 min.",
+      "highlights": [
+        "Fixed critical N+1 queries and built unit-test catchers.",
+        "Improved deployment speed from 8 minutes to 1 minute (Docker, Kubernetes)."
+      ]
+    },
+    {
+      "name": "Extract Meetings Programs from the Monolith",
+      "startDate": "2023-02",
+      "endDate": "2023-06",
+      "summary": "Built a new Rails/React service for meeting programs and migrated data.",
+      "highlights": [
+        "Built a second Rails/React app to manage meeting programs.",
+        "Developed account-management UI (React, GraphQL).",
+        "Created services to migrate marketplace data into PostgreSQL.",
+        "Computed global metrics for projects and participations."
+      ]
+    },
+    {
+      "name": "Poker Data Mining",
+      "startDate": "2020-03",
+      "endDate": "2020-06",
+      "summary": "Reverse-engineered a poker platform, parsed hand data, and surfaced exploitable game insights.",
+      "highlights": [
+        "Instrumented application to extract table data from memory (C, Python).",
+        "Parsed and reconstructed poker hands from WebSocket streams.",
+        "Built analytics app to highlight exploitable games (Ruby, Sinatra, Go).",
+        "Reverse-engineered private WebSocket API and built connector."
+      ]
+    },
+    {
+      "name": "Optimize Intranet and APIs",
+      "startDate": "2019-01",
+      "endDate": "2019-07",
+      "summary": "Dramatically reduced DB CPU and API response times through partitioning and monitoring.",
+      "highlights": [
+        "Reduced DB CPU usage from 80% to 30% (PostgreSQL).",
+        "Decreased API response times from 800 ms to 200 ms.",
+        "Split a 400 M+ row table into yearly partitions.",
+        "Configured and deployed PostgreSQL replicas."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "42 Paris",
+      "area": "IT Architecture Expert",
+      "studyType": "Bachelor-equivalent",
+      "startDate": "2016-09",
+      "endDate": "2019-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frameworks & Testing",
+      "keywords": ["Ruby on Rails", "React", "GraphQL", "ActiveAdmin", "Pundit", "RSpec"]
+    },
+    {
+      "name": "Languages & Scripting",
+      "keywords": ["Ruby", "TypeScript", "JavaScript (ES6+)", "SQL", "Bash"]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": ["Docker", "Kubernetes", "ArgoCD", "AWS", "Linux", "Git", "GitHub Actions"]
+    },
+    {
+      "name": "Datastores",
+      "keywords": ["PostgreSQL", "MongoDB", "MySQL", "Redis"]
+    },
+    {
+      "name": "Practices",
+      "keywords": ["Clean Code", "Agile", "Security", "Performance Optimization", "Troubleshooting"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hacking"
+    },
+    {
+      "name": "Code golfing"
+    },
+    {
+      "name": "Reverse engineering"
+    }
+  ]
+}
